@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+.h1-style{
+  color: blue;
+  background-color: #61dafb;
+}
+.h2-style{
+  color:chartreuse;
+  background-color: beige;
+}
+.div-style{
+  color: darkorchid;
+  background-color:azure;
+}
+.table-style{
+  color:maroon;
+  background-color:bisque;
+  scroll-padding-top: 3px;
+}
+.table-header{
+  color:darkorange;
+}
+.body{
+  color:black;
+}
+
+
